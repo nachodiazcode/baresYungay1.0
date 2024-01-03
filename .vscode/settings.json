@@ -1,0 +1,32 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "workbench.colorCustomizations": {
+        "editorError.foreground": "#f42525",
+        "editorInfo.foreground": "#0c41ee",
+        "editorWarning.foreground": "#e9ce01",
+        "activityBar.activeBackground": "#ff9a60",
+        "activityBar.background": "#ff9a60",
+        "editorGroup.border": "#ff9a60",
+        "panel.border": "#ff9a60",
+        "sash.hoverBorder": "#ff9a60",
+        "sideBar.border": "#ff9a60",
+        "statusBar.background": "#ff7a2d",
+        "statusBar.border": "#ff7a2d",
+        "statusBar.debuggingBackground": "#2db2ff",
+        "statusBar.debuggingBorder": "#2db2ff",
+        "statusBarItem.hoverBackground": "#f95b00",
+        "statusBarItem.remoteBackground": "#ff7a2d",
+        "tab.activeBorder": "#ff9a60",
+        "titleBar.activeBackground": "#ff7a2d",
+        "titleBar.border": "#ff7a2d",
+        "titleBar.inactiveBackground": "#ff7a2d99"
+    },
+    "peacock.color": "#FF7A2D",
+    "editor.codeActionsOnSave": {
+    
+    }
+}
